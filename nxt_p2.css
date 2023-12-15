@@ -1,0 +1,114 @@
+
+.div{
+    font-size: larger;
+    color: white;
+    background-color: rgb(58, 209, 58);
+    margin-top: -10px;
+    height: 80px;
+    border: double 7px green ;
+    border-radius: 7px;
+    margin-left: -9px;
+    font-style: italic;
+    width: 100%;
+    text-align: center;
+}
+.div-cover{
+    background-color: white;
+    height: 510px;
+    width: 35%;
+    margin-left: 33%;
+    border-radius: 20px;
+    margin-top: 10px;
+    border:  solid 5px lightgreen;
+}
+.Phone{
+    margin-top: 28px;
+    margin-left: 20px;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Phone-Drp{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 38px;
+    border: solid silver;
+    margin-right: -10px;
+    border-radius: 4px;
+}
+.Phone-Inp{
+    border-radius: 5px;
+    margin-left: 3px;
+    height: 6%;
+    width: 55.5%;
+    border: solid silver;   
+    margin-top: 70px;
+}
+.email-address{
+    margin-top: 28px;
+    margin-left: 20px;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.email{
+    margin-top: 20px;
+    border-radius: 5px;
+    margin-left: 3px;
+    height: 7%;
+    width: 70%;
+    border: solid silver;
+    margin-bottom: 30px;
+}
+.Location{
+    margin-top: 28px;
+    margin-left: 20px;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Inp-Location{
+    border-radius: 5px;
+    margin-left: 3px;
+    height: 15%;
+    width: 70%;
+    border: solid silver;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.No{
+    margin-left: 20px;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.No-Inp{
+    margin-top: 20px;
+    border-radius: 5px;
+    margin-left: 3px;
+    height: 10%;
+    width: 70%;
+    border: solid silver;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Next2{
+    background-color: lightslategrey;
+    height: 40px;
+    width: 80px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 8px;
+    margin-left: 75%;
+    color: white;
+    font-size: large;
+    margin-top: 70px;
+    margin-bottom: -90px;
+}
+.Back{
+    background-color: lightslategrey;
+    height: 40px;
+    width: 80px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 8px;
+    margin-left: 5%;
+    color: white;
+    font-size: large;
+    margin-top: -100px;
+}

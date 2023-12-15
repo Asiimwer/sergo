@@ -1,0 +1,11 @@
+body{
+    background-color: lightgray;
+    height: 80%;
+    width: 80%;
+}
+.bigdiv{
+    height: 500px;
+    width: 800px;
+    background-color: lightpink;
+    margin-left: 33%;
+}

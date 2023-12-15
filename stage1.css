@@ -1,0 +1,72 @@
+body{
+    background-image: url(full_size.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.top_div{
+    background-color: lightgreen;
+    height: 80px;
+    text-align: center;
+    border-top: 5px double black;
+    border-bottom: 5px double black;
+    border-radius: 8px;
+    animation: move is linear infinite;
+    animation-name: myanimation;
+    animation-duration: 10s;
+}
+@keyframes myanimation{
+    0%{ background-color: lightseagreen;}
+    25%{ background-color: lightgreen;}
+    55%{ background-color:green;}
+    75%{ background-color: rgb(3, 134, 178);}
+    80%{ background-color: greenyellow;}
+    100%{ background-color: blue;}
+}
+.top_heading{
+    color: white;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.next_div{
+    margin-top: 10px;
+    padding: 25px;
+    background-color: lightblue;
+    height: 500px;
+    margin-left: 10px;
+    border-radius: 10px;
+    width: 70%;
+    border-top: 5px double black;
+    border-bottom: 5px double black ;
+    animation-name: my2ndanimation;
+    animation-duration: 10s;
+}
+@keyframes my2ndanimation{
+    0%{ background-color: lightseagreen; left:0px; top:0px; }
+    25%{ background-color: lightgreen; left:300px; top:0px }
+    55%{ background-color:green; left:0px; top:0px }
+    75%{ background-color: rgb(3, 134, 178); left:300px; top:300px }
+    80%{ background-color: greenyellow; left: 300px; top:300px  }
+    100%{ background-color: blue;  left:0px; top:0px  }
+}
+.nxt_heading{
+    color: black ;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 40px;
+    border-bottom: 5px double black;
+}
+.referal{
+    color: black ;
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 40px;
+
+}
+.move{
+    margin-top: 30px;
+    margin-left: 10px ;
+}
+.coloring{
+    color: rgb(248, 1, 1);
+    font-style: italic;
+}

@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+    background-color: springgreen;
+}
+.dev1{
+    background-color: lightblue;
+    height: 80px;
+    text-align: center;
+    border-top: 8px double black;
+    border-bottom: 8px double black;
+    border-radius: 8px;
+    color: white;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 10px;
+}
+.directions{
+    color: white;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 50px;
+}

@@ -1,0 +1,87 @@
+body{
+    background-color: springgreen;
+    animation-name: Bl;
+    animation-duration: 60s;
+}
+@keyframes Blink{
+    0% { background-color: lightgreen; }
+    5% { background-color: lightblue; }
+    10% { background-color: lightgreen; }
+    15% { background-color: lightblue; }
+    20% { background-color: lightgreen; }
+    25% { background-color: lightblue; }
+    30% { background-color: lightgreen; }
+    35% { background-color: lightblue; }
+    40% { background-color: lightgreen; }
+    45% { background-color: lightblue; }
+    50% { background-color: lightgreen; }
+    55% { background-color: lightblue; }
+    60% { background-color: lightgreen; }
+    65% { background-color: lightblue; }
+    70% { background-color: lightgreen; }
+    75% { background-color: lightblue; }
+    80% { background-color: lightgreen; }
+    85% { background-color: lightblue; }  
+    90% { background-color: lightgreen; }
+    93% { background-color: lightblue; }
+    95% { background-color: lightgreen; }
+    98% { background-color: lightblue; }
+    99% { background-color: lightgreen; }
+    100% { background-color: lightblue; }
+}
+.div1{
+    background-color: lightblue;
+    height: 80px;
+    text-align: center;
+    border-top: 8px double black;
+    border-bottom: 8px double black;
+    border-radius: 8px;
+    color: white;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 10px;
+}
+.div2{
+    text-align: center;
+    border-radius: 8px;
+    color: white;
+    font-size: xx-large;
+    margin-top: 120px;
+}
+.drp_dwn{
+    margin-top: 60px;
+    height: 60px;
+    width: 50%;
+    border: dotted 3px violet;
+    animation-name: Blinking;
+    animation-duration: 60s;
+}
+@keyframes Blinking{
+    0% { background-color: lightgreen; }
+    5% { background-color: lightblue; }
+    10% { background-color: white; }
+    15% { background-color: lightblue; }
+    20% { background-color: lightgreen; }
+    25% { background-color: lightblue; }
+    30% { background-color: white; }
+    35% { background-color: lightblue; }
+    40% { background-color: lightgreen; }
+    45% { background-color: lightblue; }
+    50% { background-color: white; }
+    55% { background-color: lightblue; }
+    60% { background-color: lightgreen; }
+    65% { background-color: lightblue; }
+    70% { background-color: lightgreen; }
+    75% { background-color: white; }
+    80% { background-color: lightgreen; }
+    85% { background-color: lightblue; }  
+    90% { background-color: lightgreen; }
+    93% { background-color: lightblue; }
+    95% { background-color: lightgreen; }
+    98% { background-color: lightblue; }
+    99% { background-color: lightgreen; }
+    100% { background-color: lightblue; }
+}
+.necxt{
+    background-color: white;
+}

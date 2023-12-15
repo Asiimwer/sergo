@@ -1,0 +1,66 @@
+body{
+    background-color: white;
+    background-image: url(full_size.JPG);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.sergo{
+    margin-top: 15px;
+    background-color: lightgreen;
+    height: 80px;
+    text-align: center;
+    border-bottom: 8px solid black;
+    border-radius: 8px;
+}
+.Question{
+    color: white;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 10px;
+}
+.anser{
+    font-size: x-large;
+}
+.div2{
+    margin-top: 250px;
+}
+.patient{
+    color: red;
+    font-size: 44px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+.Patients_input{
+    height: 50px;
+    width: 35%;
+    border-radius: 10px;
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-top: 8px double black;
+    border-bottom: 8px double black;;
+}
+.button{
+    width: 89px;
+    height: 46px;
+    margin-left: 90%;
+    text-align:center ;
+    color: black;
+    border-radius: 3px;
+    border-right: 5px double black;
+
+    border-left: 5px double black;
+    background-color: rgb(171, 245, 171);
+    animation-name: buttonanimation;
+    animation-duration: 60s;
+}
+@keyframes buttonanimation{
+    0%{ background-color: lightseagreen; left:0px; top:0px; }
+    10%{ background-color: purple; }
+    25%{ background-color: lightgreen; left:300px; top:0px }
+    40%{ background-color: yellow;}
+    55%{ background-color:green; left:0px; top:0px }
+    75%{ background-color: rgb(3, 134, 178); left:300px; top:300px }
+    80%{ background-color: greenyellow; left: 300px; top:300px  }
+    90%{ background-color: crimson; }
+    100%{ background-color: blue;  left:0px; top:0px }
+}

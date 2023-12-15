@@ -1,0 +1,385 @@
+body{
+    background-color: white;
+}
+.dive1{
+    background-color: lightblue;
+    height: 80px;
+    text-align: center;
+    border: dotted  5px blue;
+    border-radius: 8px;
+    color: white;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 10px;
+}
+.dive2{
+    background-color: lightblue;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 34%;
+    height: 1030px;
+    border-radius: 10px;
+    border: double 8px black;
+    margin-left: 1px;
+}
+.img{
+    margin-left: 25px;
+    margin-top: 20px;
+    border-radius: 8px;
+    border: double 5px violet;
+}
+.label1{
+    margin-left: 40px;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+.small_labels{
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 10px;
+}
+.message{
+    margin-top: 10px;
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+    margin-left: 30px;
+    width: 404px;
+    text-align: center;
+    height: 90px;
+    border-top: 5px double black;
+    border-bottom: 5px double black;
+    border-radius: 10px;
+    background-color: lightgreen;
+    animation-name: blickng;
+    animation-duration: 120s;
+    animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+}
+@keyframes blickng{
+
+    0% { background-color: white; }
+    5% { background-color: lightgreen; }
+    10% { background-color: white; }
+    15% { background-color: lightgreen; }
+    20% { background-color: white; }
+    25% { background-color: lightgreen; }
+    30% { background-color: white; }
+    35% { background-color: lightgreen; }
+    40% { background-color: white; }
+    45% { background-color: lightgreen; }
+    50% { background-color: white; }
+    55% { background-color: lightgreen; }
+    60% { background-color: white; }
+    65% { background-color: lightgreen; }
+    70% { background-color: white; }
+    75% { background-color: lightgreen; }
+    80% { background-color: white; }
+    85% { background-color: lightgreen; }  
+    90% { background-color: white; }
+    93% { background-color: lightgreen; }
+    94% { background-color: white; }
+    95% { background-color: lightgreen; }
+    96% { background-color: white; }
+    97% { background-color: lightgreen; }
+    98% { background-color: white; }
+    99% { background-color: lightgreen; }
+    100% { background-color: white; }
+}
+.Contact{
+    margin-top: 50px;
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+    margin-left: 30px;
+    width: 404px;
+    text-align: center;
+    height: 90px;
+    border-top: 5px double black;
+    border-bottom: 5px double black;
+    border-radius: 10px;
+    background-color: lightgreen;
+    animation-name: blinking;
+    animation-duration: 120s;
+    animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+}
+@keyframes blinking{
+    
+    0% { background-color: white; }
+    5% { background-color: lightgreen; }
+    10% { background-color: white; }
+    15% { background-color: lightgreen; }
+    20% { background-color: white; }
+    25% { background-color: lightgreen; }
+    30% { background-color: white; }
+    35% { background-color: lightgreen; }
+    40% { background-color: white; }
+    45% { background-color: lightgreen; }
+    50% { background-color: white; }
+    55% { background-color: lightgreen; }
+    60% { background-color: white; }
+    65% { background-color: lightgreen; }
+    70% { background-color: white; }
+    75% { background-color: lightgreen; }
+    80% { background-color: white; }
+    85% { background-color: lightgreen; }  
+    90% { background-color: white; }
+    93% { background-color: lightgreen; }
+    94% { background-color: white; }
+    95% { background-color: lightgreen; }
+    96% { background-color: white; }
+    97% { background-color: lightgreen; }
+    98% { background-color: white; }
+    99% { background-color: lightgreen; }
+    100% { background-color: white; }
+}
+.dive3{
+    background-color: lightblue;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 34%;
+    height: 1020px;
+    border-radius: 10px;
+    border: double 8px black;
+    margin-left: 494px;
+    margin-top: -1064px;
+}
+.img2{
+    margin-left: 25px;
+    margin-top: 20px;
+    border-radius: 8px;
+    border: double 5px violet;
+}
+.label2{
+    margin-left: 40px;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+.small_labels{
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 10px;
+}
+.message{
+    margin-top: 80px;
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+    margin-left: 30px;
+    width: 404px;
+    text-align: center;
+    height: 90px;
+    border-top: 5px double black;
+    border-bottom: 5px double black;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    background-color: lightgreen;
+    animation-name: blickng;
+    animation-duration: 120s;
+    animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+}
+@keyframes blickng{
+    
+    0% { background-color: white; }
+    5% { background-color: lightgreen; }
+    10% { background-color: white; }
+    15% { background-color: lightgreen; }
+    20% { background-color: white; }
+    25% { background-color: lightgreen; }
+    30% { background-color: white; }
+    35% { background-color: lightgreen; }
+    40% { background-color: white; }
+    45% { background-color: lightgreen; }
+    50% { background-color: white; }
+    55% { background-color: lightgreen; }
+    60% { background-color: white; }
+    65% { background-color: lightgreen; }
+    70% { background-color: white; }
+    75% { background-color: lightgreen; }
+    80% { background-color: white; }
+    85% { background-color: lightgreen; }  
+    90% { background-color: white; }
+    93% { background-color: lightgreen; }
+    94% { background-color: white; }
+    95% { background-color: lightgreen; }
+    96% { background-color: white; }
+    97% { background-color: lightgreen; }
+    98% { background-color: white; }
+    99% { background-color: lightgreen; }
+    100% { background-color: white; }
+}
+.Contact{
+    margin-top: 60px;
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+    margin-left: 30px;
+    width: 404px;
+    text-align: center;
+    height: 90px;
+    border-top: 5px double black;
+    border-bottom: 5px double black;
+    border-radius: 10px;
+    background-color: lightgreen;
+    animation-name: blinking;
+    animation-duration: 120s;
+    animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+}
+@keyframes blinking{
+    0% { background-color: white; }
+    5% { background-color: lightblue; }
+    10% { background-color: white; }
+    15% { background-color: lightblue; }
+    20% { background-color: white; }
+    25% { background-color: lightblue; }
+    30% { background-color: white; }
+    35% { background-color: lightblue; }
+    40% { background-color: white; }
+    45% { background-color: lightblue; }
+    50% { background-color: white; }
+    55% { background-color: lightblue; }
+    60% { background-color: white; }
+    65% { background-color: lightblue; }
+    70% { background-color: white; }
+    75% { background-color: lightblue; }
+    80% { background-color: white; }
+    85% { background-color: lightblue; }  
+    90% { background-color: white; }
+    93% { background-color: lightblue; }
+    94% { background-color: white; }
+    95% { background-color: lightblue; }
+    96% { background-color: white; }
+    97% { background-color: lightblue; }
+    98% { background-color: white; }
+    99% { background-color: lightblue; }
+    100% { background-color: lightblue; }
+}
+.dive4{
+    background-color: lightblue;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 34%;
+    height: 1020px;
+    border-radius: 10px;
+    border: double 8px black;
+    margin-left: 984px;
+    margin-top: -1034px;
+}
+.img2{
+    margin-left: 25px;
+    margin-top: 20px;
+    border-radius: 8px;
+    border: double 5px violet;
+}
+.label2{
+    margin-left: 40px;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+.small_labels{
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 10px;
+}
+.message{
+    margin-top: 50px;
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+    margin-left: 30px;
+    width: 404px;
+    text-align: center;
+    height: 90px;
+    border-top: 5px double black;
+    border-bottom: 5px double black;
+    border-radius: 10px;
+    background-color: lightgreen;
+    animation-name: blickng;
+    animation-duration: 120s;
+    animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+}
+@keyframes blickng{
+    
+    0% { background-color: white; }
+    5% { background-color: lightgreen; }
+    10% { background-color: white; }
+    15% { background-color: lightgreen; }
+    20% { background-color: white; }
+    25% { background-color: lightgreen; }
+    30% { background-color: white; }
+    35% { background-color: lightgreen; }
+    40% { background-color: white; }
+    45% { background-color: lightgreen; }
+    50% { background-color: white; }
+    55% { background-color: lightgreen; }
+    60% { background-color: white; }
+    65% { background-color: lightgreen; }
+    70% { background-color: white; }
+    75% { background-color: lightgreen; }
+    80% { background-color: white; }
+    85% { background-color: lightgreen; }  
+    90% { background-color: white; }
+    93% { background-color: lightgreen; }
+    94% { background-color: white; }
+    95% { background-color: lightgreen; }
+    96% { background-color: white; }
+    97% { background-color: lightgreen; }
+    98% { background-color: white; }
+    99% { background-color: lightgreen; }
+    100% { background-color: white; }
+}
+.Contact{
+    margin-top: 80px;
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+    margin-left: 30px;
+    width: 404px;
+    text-align: center;
+    height: 90px;
+    border-top: 5px double black;
+    border-bottom: 5px double black;
+    border-radius: 10px;
+    background-color: lightgreen;
+    animation-name: blinking;
+    animation-duration: 120s;
+    animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+}
+@keyframes blinking{
+ 
+    0% { background-color: white; }
+    5% { background-color: lightgreen; }
+    10% { background-color: white; }
+    15% { background-color: lightgreen; }
+    20% { background-color: white; }
+    25% { background-color: lightgreen; }
+    30% { background-color: white; }
+    35% { background-color: lightgreen; }
+    40% { background-color: white; }
+    45% { background-color: lightgreen; }
+    50% { background-color: white; }
+    55% { background-color: lightgreen; }
+    60% { background-color: white; }
+    65% { background-color: lightgreen; }
+    70% { background-color: white; }
+    75% { background-color: lightgreen; }
+    80% { background-color: white; }
+    85% { background-color: lightgreen; }  
+    90% { background-color: white; }
+    93% { background-color: lightgreen; }
+    94% { background-color: white; }
+    95% { background-color: lightgreen; }
+    96% { background-color: white; }
+    97% { background-color: lightgreen; }
+    98% { background-color: white; }
+    99% { background-color: lightgreen; }
+    100% { background-color: white; }
+}
+.small_words{
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 10px;
+    color: green;   
+}

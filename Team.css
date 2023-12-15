@@ -1,0 +1,60 @@
+body{
+    background-color:white;
+}
+.top_div{
+    background-color: rgb(68, 68, 197);
+    height: 60px;
+}
+.M-teams{
+    margin-bottom: 30%;
+    font-size: xx-large;
+    margin-left: 6%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    }
+.search_bar{
+    margin-left: 12%;
+    height: 30px;
+    width: 39%;
+    border-radius: 8px;
+    margin-top: white ;
+    margin-top: 5px;
+}
+.DOTS{
+    font-size: xx-large;
+    font-size: 200%;
+    color: white;
+    margin-left: 15%;
+    margin-bottom: 0.;
+}
+.mitch{
+    border-radius: 50%;
+    size: 10%;
+    margin-top: 11px;
+    margin-left: 30px;
+}
+.side-bar{
+    background-color: aliceblue;
+    width: 80px;
+    height: 600px;
+}
+.bell{
+    margin-left: 20px;
+    font-size: 30px;
+}
+.activity{
+    font-family: serif;
+    margin-left: 10px;
+}
+.teams{
+    font-size: 30px;
+    margin-left: 18px;
+}
+
+#emojis{
+    margin-top: 30px;
+}
+.chat{
+    margin-top: 30px;
+    
+}

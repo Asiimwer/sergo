@@ -1,0 +1,188 @@
+body{   
+    background-image: url(full_size.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    backface-visibility: visible;
+}
+.heading{
+    background-color: lightgreen;
+    height: 80px;
+    text-align: center;
+    border-bottom: 8px solid black;
+    border-radius: 8px;
+}
+.welcome{
+    color: white;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 10px;
+}
+.welcome2{
+    font-size: x-large;
+}
+.big_div{
+    
+}
+.f1st_div{
+    margin-top: 40px;
+    background-color: lightgreen;
+    height: 200px;
+    border-radius: 10px;
+    text-align: center;
+    border-top: 5px double black;
+    border-bottom: 5px double black;
+    width: 30%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+    animation-name: my3rdanimation;
+    animation-duration: 13s;
+}
+@keyframes my3rdanimation{
+    0%{ background-color: lightseagreen; }
+    25%{ background-color: lightgreen; }
+    55%{ background-color: lightpink; }
+    75%{ background-color: lightblue; }
+    80% { background-color: orchid; }
+    100% { background-color: lightgoldenrodyellow; }
+}
+.s2nd_div{
+    margin-top: 60px;
+    background-color: lightgreen;
+    height: 200px;
+    border-radius: 10px;
+    text-align: center;
+    width: 30%;
+    border-top: 5px double black;
+    border-bottom: 5px double black;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+    animation-name: animation2;
+    animation-duration:13s;
+}
+@keyframes animation2{
+    0%{ background-color: lightseagreen; }
+    25%{ background-color: lightgreen; }
+    55%{ background-color: lightpink; }
+    75%{ background-color: lightblue; }
+    80% { background-color: orchid; }
+    100% { background-color: lightgoldenrodyellow
+        ; }
+}
+.t3rd_div{
+    margin-top: -478px;
+    background-color: lightgreen;
+    height: 200px;
+    border-radius: 10px;
+    text-align: center;
+    width: 30%;
+    border-top: 5px double black;
+    border-bottom: 5px double black;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+    margin-left: 35%;
+    animation-name: animation3;
+    animation-duration: 15s;
+}
+@keyframes animation3{
+    0%{ background-color: lightseagreen; }
+    25%{ background-color: lightgreen; }
+    55%{ background-color: lightpink; }
+    75%{ background-color: lightblue; }
+    80% { background-color: orchid; }
+    100% { background-color: lightgoldenrodyellow; }
+}
+.f4th_div{
+    background-color: lightgreen;
+    height: 200px;
+    border-radius: 10px;
+    text-align: center;
+    width: 100%;
+    border-top: 5px double black;
+    border-bottom: 5px double black;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+    margin-top: 155px;
+    animation-name: animation4;
+    animation-duration: 15s;
+}
+@keyframes animation4{
+    0%{ background-color: lightseagreen; }
+    25%{ background-color: lightgreen; }
+    55%{ background-color: lightpink; }
+    75%{ background-color: lightblue; }
+    80% { background-color: orchid; }
+    100% { background-color: lightgoldenrodyellow; }
+}
+.f5th_div{
+    background-color: lightgreen;
+    height: 200px;
+    border-radius: 10px;
+    text-align: center;
+    width: 100%;
+    border-top: 5px double black;
+    border-bottom: 5px double black;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+    margin-left: 110%;
+    margin-top: -478px;
+    animation-name: animation5;
+    animation-duration: 18s;
+}
+@keyframes animation5{
+    0%{ background-color: lightseagreen; }
+    25%{ background-color: lightgreen; }
+    55%{ background-color: lightpink; }
+    75%{ background-color: lightblue; }
+    80% { background-color: orchid; }
+    100% { background-color: lightgoldenrodyellow; }
+}
+.s6th_div{
+    background-color: lightgreen;
+    height: 200px;
+    border-radius: 10px;
+    text-align: center;
+    width: 100%;
+    border-top: 5px double black;
+    border-bottom: 5px double black;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+    margin-top: 60px;
+    margin-left: 110% ;
+    animation-name: animation6;
+    animation-duration: 18s ;
+}
+@keyframes animation6{
+    0%{ background-color: lightseagreen; }
+    25%{ background-color: lightgreen; }
+    55%{ background-color: lightpink; }
+    75%{ background-color: lightblue; }
+    80% { background-color: orchid; }
+    100% { background-color: lightgoldenrodyellow; }
+}
+.next{
+    background-color: lightgreen;
+    height: 40px;
+    width: 40%;
+    border-radius: 8px;
+    border-top: 5px double black;
+    border-bottom: 5px double black;
+    margin-top: 10px;
+    margin-left: 170%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    animation-name: animation7 ;
+    animation-duration: 25s ;
+}
+@keyframes animation7{
+    0%{ background-color: lightseagreen; }
+    25%{ background-color: lightgreen; }
+    55%{ background-color: lightpink; }
+    75%{ background-color: lightblue; }
+    80% { background-color: orchid; }
+    100% { background-color: lightgoldenrodyellow; }
+}
